@@ -19,7 +19,7 @@ function Pessoas (nome, sobrenome) {
 
 Pessoas.prototype.nomeCompleto = function() {
     return this.nome + ' ' + this.sobrenome;
-}
+};
 
 const pessoa1 = new Pessoas('Gustavo', 'Pereira');
 const pessoa2 = new Pessoas('Millena', 'Oliveira');

@@ -1,8 +1,8 @@
 function xpto(){
+    const name = 'Lucas'
     console.log(name);
 }
-
-
-const name = 'Lucas'
-
 xpto()
+
+
+
